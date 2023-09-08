@@ -15,4 +15,3 @@ Eu sou o Miguel e atualmente estou trabalhando e aprendendo a programar, gosto b
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <i class="devicon-materialui-plain colored"></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
