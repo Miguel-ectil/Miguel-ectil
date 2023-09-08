@@ -28,7 +28,7 @@
   <img 
     alt="javascript" 
     width="60"
-    height='40'
+    height='50'
     src="https://icongr.am/devicon/javascript-original.svg?size=128&color=2e4de5" /> 
   <img 
     alt="typescript" 
@@ -50,7 +50,9 @@
     width="60"
     height='50'
     src="https://icongr.am/devicon/python-original.svg?size=128&color=2e4de5" />
-  <br />
+  <!-- <br /> -->
+
+  ###
   <a href="https://www.linkedin.com/in/miguel-ectil-a54063267/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
