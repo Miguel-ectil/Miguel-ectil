@@ -30,6 +30,12 @@
     width="60"
     height='50'
     src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6938f0" /> 
+  <img
+    alt="tailwindcss" 
+    width="60"
+    height='50
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
+  />
   <img 
     alt="javascript" 
     width="60"
