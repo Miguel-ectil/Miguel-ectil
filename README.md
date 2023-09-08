@@ -1,4 +1,7 @@
+<div id='text'>
+
 # 🤙🏿 Hello! Welcome to my github my name is Miguel Ectil.
+</div>
 
 ### Quem eu sou?
 
@@ -35,3 +38,21 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     <i class="devicon-materialui-plain colored"></i> -->
 </div>
+
+<style>
+  #text {
+    font-size: 24px;
+    font-weight: bold;
+    opacity: 0;
+    animation: fadeIn 2s linear forwards;
+  }
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+</style>
