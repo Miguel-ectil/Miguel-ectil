@@ -74,6 +74,11 @@
     height='44'
     src="https://icongr.am/devicon/python-original.svg?size=128&color=2e4de5" />
   <img 
+    alt="python" 
+    width="54"
+    height='44'
+    src="https://icongr.am/devicon/git-original.svg?size=126&color=e44d26" />
+  <img 
     alt="visualstudio" 
     width="54"
     height='44'
