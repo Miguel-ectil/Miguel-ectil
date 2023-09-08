@@ -29,29 +29,39 @@
   </a>
   <br />
     <img 
-      alt="css" 
-      width="50"
-      height='34'
+      alt="html5" 
+      width="60"
+      height='50'
       src="https://icongr.am/devicon/html5-original.svg?size=128&color=2e4de5">
     <img 
-      alt="css" 
-      width="50"
-      height='40'
+      alt="css3" 
+      width="60"
+      height='50'
       src="https://icongr.am/devicon/css3-original.svg?size=128&color=2e4de5"> 
     <img 
-      alt="css" 
-      width="40"
-      height='30'
-      src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=2e4de5"> 
+      alt="javascript" 
+      width="60"
+      height='40'
+      src="https://icongr.am/devicon/javascript-original.svg?size=128&color=2e4de5"> 
     <img 
-      alt="css" 
-      width="40"
-      height='30'
-      src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=2e4de5"> 
+      alt="typescript" 
+      width="60"
+      height='40'
+      src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=2e4de5">
+      <img 
+      alt="react" 
+      width="60"
+      height='40'
+      src="https://icongr.am/devicon/react-original.svg?size=128&color=2e4de5"> 
+      <img 
+      alt="vue" 
+      width="60"
+      height='40'
+      src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=2e4de5">  
     <img 
-      alt="css" 
-      width="40"
-      height='30'
-      src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=2e4de5"> 
+      alt="python" 
+      width="60"
+      height='40'
+      src="https://icongr.am/devicon/python-original.svg?size=128&color=2e4de5"> 
     <!-- <i class="devicon-materialui-plain colored"></i>  -->
 </div>
