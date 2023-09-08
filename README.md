@@ -29,7 +29,13 @@
     alt="bootstrap" 
     width="60"
     height='50'
-    src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6938f0" /> 
+    src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6938f0" />
+  <img
+    alt="materialui" 
+    width="60"
+    height='50' 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" 
+  />
   <img
     alt="tailwindcss" 
     width="60"
