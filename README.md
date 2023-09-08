@@ -34,17 +34,23 @@
     alt="typescript" 
     width="60"
     height='50'
+    src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6938f0" />
+  <img 
+    alt="typescript" 
+    width="60"
+    height='50'
     src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=2e4de5" />
-    <img 
+  <img 
     alt="react" 
     width="60"
     height='50'
     src="https://icongr.am/devicon/react-original.svg?size=128&color=2e4de5" /> 
-    <img 
+  <img 
     alt="vue" 
     width="60"
     height='50'
-    src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=2e4de5" />  
+    src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=2e4de5" />
+
   <img 
     alt="python" 
     width="60"
