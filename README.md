@@ -33,13 +33,13 @@
   <img
     alt="tailwindcss" 
     width="60"
-    height='50
+    height='50'
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
   />
   <img 
     alt="javascript" 
     width="60"
-    height='50'
+    height="50"
     src="https://icongr.am/devicon/javascript-original.svg?size=128&color=2e4de5" /> 
   <img 
     alt="typescript" 
