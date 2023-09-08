@@ -61,7 +61,7 @@
     alt="nextjs" 
     width="60"
     height='50'
-    color='white'
+    fill: white
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
   />
   <img 
