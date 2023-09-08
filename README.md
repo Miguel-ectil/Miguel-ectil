@@ -5,13 +5,10 @@ Eu sou o Miguel e atualmente estou trabalhando e aprendendo a programar, gosto b
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n9KBKHPA3H)
 
-
-<table>
-  <tr>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressansantos&show_icons=true&theme=tokyonight"/></td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressansantos&layout=compact&theme=tokyonight"/></td>
-  </tr>
-</table>
+<div class="grid grid-cols-2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressansantos&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressansantos&layout=compact&theme=tokyonight"/>
+</div>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
