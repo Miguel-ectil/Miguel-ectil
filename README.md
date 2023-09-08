@@ -27,10 +27,27 @@
   <a href="https://discordapp.com/users/850006673815765083/850006673815765085"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Envoy_#1852" />
   </a>
-    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> -->
+  <br />
+    <img 
+      alt="css" 
+      width="50"
+      height='34'
+      src="https://icongr.am/devicon/html5-original.svg?size=128&color=2e4de5">
+    <img 
+      alt="css" 
+      width="50"
+      height='40'
+      src="https://icongr.am/devicon/css3-original.svg?size=128&color=2e4de5"> 
+    <img 
+      alt="css" 
+      width="40"
+      height='30'
+      src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=2e4de5"> 
+    <img 
+      alt="css" 
+      width="40"
+      height='30'
+      src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=2e4de5"> 
     <img 
       alt="css" 
       width="40"
