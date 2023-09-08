@@ -17,76 +17,76 @@
 <div align="center">
   <img 
     alt="html5" 
-    width="54"
-    height='44'
+    width="50"
+    height='40'
     src="https://icongr.am/devicon/html5-original.svg?size=128&color=2e4de5" />
   <img 
     alt="css3" 
-    width="54"
-    height='44'
+    width="50"
+    height='40'
     src="https://icongr.am/devicon/css3-original.svg?size=128&color=2e4de5" />
   <img 
     alt="bootstrap" 
-    width="54"
-    height='44'
+    width="50"
+    height='40'
     src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6938f0" />
   <img
     alt="materialui" 
-    width="54"
-    height='44' 
+    width="50"
+    height='40' 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" 
   />
   <img
     alt="tailwindcss" 
-    width="54"
-    height='44'
+    width="50"
+    height='40'
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
   />
   <img 
     alt="javascript" 
-    width="54"
-    height="44"
+    width="50"
+    height="40"
     src="https://icongr.am/devicon/javascript-original.svg?size=128&color=2e4de5" /> 
   <img 
     alt="typescript" 
-    width="54"
-    height='44'
+    width="50"
+    height='40'
     src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=2e4de5" />
   <img 
     alt="react" 
-    width="54"
-    height='44'
+    width="50"
+    height='40'
     src="https://icongr.am/devicon/react-original.svg?size=128&color=2e4de5" />
   <img
     alt="react" 
-    width="54"
-    height='44'
+    width="50"
+    height='40'
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
   />
   <img 
     alt="vue" 
-    width="54"
-    height='44'
+    width="50"
+    height='40'
     src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=2e4de5" />
   <img 
     alt="python" 
-    width="54"
-    height='44'
+    width="50"
+    height='40'
     src="https://icongr.am/devicon/python-original.svg?size=128&color=2e4de5" />
   <img 
     alt="python" 
-    width="54"
-    height='44'
+    width="50"
+    height='40'
     src="https://icongr.am/devicon/git-original.svg?size=126&color=e44d26" />
   <img 
     alt="visualstudio" 
-    width="54"
-    height='44'
+    width="50"
+    height='40'
     src="https://icongr.am/devicon/visualstudio-plain.svg?size=126&color=00adef" />
   <img 
     alt="ubuntu" 
-    width="54"
-    height='44'
+    width="50"
+    height='40'
     src="https://icongr.am/devicon/ubuntu-plain.svg?size=126&color=e44d26" />
 
   ###
