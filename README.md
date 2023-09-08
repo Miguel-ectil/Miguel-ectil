@@ -14,7 +14,7 @@
 
 ##
 
-<div class="iten-center">
+<div class="item-center">
   <img 
     alt="html5" 
     width="60"
