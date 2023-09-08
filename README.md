@@ -1,6 +1,9 @@
-# 🤙🏿 Hello! Welcome to my Github my name is Miguel Ectil and my nickname is "Miguelito"!.
+# 🤙🏿 Hello! Welcome to my github my name is Miguel Ectil.
 
-Eu sou o Miguel e atualmente estou trabalhando e aprendendo a programar, gosto bastante de animes, não tenho muito o costume de ler mais gosto. estou sempre pronto para novas experiencias e conhecer coisas covas, no geral, e essa foi uma das coisas que me fez conhecer essa área da programação e me fez entrar nela de cabeça kkk. Hoje eu trabalho como Desenvolvedor Front-end Utilizando React-Next Com TypScript e também sei programar em Vue.js.
+<p>
+  Eu sou apenas mais uma das pessoas que apreciam a área da programação. Sobre mim, bem, eu sou alguém que gosta bastante de animes. Confesso que não tenho muito costume de ler, mas isso não significa que eu não leia, apenas não faço isso frequentemente 😅.
+  <br />Estou sempre pronto para novas experiências e sou bem comunicativo quando necessário. Acredito que a nossa humildade diz muito sobre nós, por isso, procuro sempre ser humilde e aprender com os meus erros, bom acredito que só isso seja suficiente para que tenham uma noção sobre a minha pessoa kkkk
+</p>
 
 
 <div style="display: inline_block" align="center">
