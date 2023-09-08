@@ -14,7 +14,7 @@
 
 ##
 
-<div class="item-center">
+<div class="justify-center item-center">
   <img 
     alt="html5" 
     width="60"
