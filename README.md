@@ -32,9 +32,9 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> -->
     <img 
-      alt="python" 
+      alt="css" 
       width="40"
       height='30'
-      href="https://www.svgrepo.com/show/349485/python.svg"> 
+      href="https://icongr.am/devicon/css3-plain-wordmark.svg?size=128&color=2e4de5"> 
     <!-- <i class="devicon-materialui-plain colored"></i>  -->
 </div>
