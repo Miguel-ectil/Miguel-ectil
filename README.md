@@ -15,53 +15,52 @@
 ##
 
 <div align="center">
+  <img 
+    alt="html5" 
+    width="60"
+    height='50'
+    src="https://icongr.am/devicon/html5-original.svg?size=128&color=2e4de5" />
+  <img 
+    alt="css3" 
+    width="60"
+    height='50'
+    src="https://icongr.am/devicon/css3-original.svg?size=128&color=2e4de5" /> 
+  <img 
+    alt="javascript" 
+    width="60"
+    height='40'
+    src="https://icongr.am/devicon/javascript-original.svg?size=128&color=2e4de5" /> 
+  <img 
+    alt="typescript" 
+    width="60"
+    height='50'
+    src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=2e4de5" />
+    <img 
+    alt="react" 
+    width="60"
+    height='50'
+    src="https://icongr.am/devicon/react-original.svg?size=128&color=2e4de5" /> 
+    <img 
+    alt="vue" 
+    width="60"
+    height='50'
+    src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=2e4de5" />  
+  <img 
+    alt="python" 
+    width="60"
+    height='50'
+    src="https://icongr.am/devicon/python-original.svg?size=128&color=2e4de5" />
+  <br />
   <a href="https://www.linkedin.com/in/miguel-ectil-a54063267/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ectilmiguelmiguelectil@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href = "https://github.com/Miguel-ectil">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
   <a href="https://discordapp.com/users/850006673815765083/850006673815765085"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Envoy_#1852" />
   </a>
-  <br />
-    <img 
-      alt="html5" 
-      width="60"
-      height='50'
-      src="https://icongr.am/devicon/html5-original.svg?size=128&color=2e4de5">
-    <img 
-      alt="css3" 
-      width="60"
-      height='50'
-      src="https://icongr.am/devicon/css3-original.svg?size=128&color=2e4de5"> 
-    <img 
-      alt="javascript" 
-      width="60"
-      height='40'
-      src="https://icongr.am/devicon/javascript-original.svg?size=128&color=2e4de5"> 
-    <img 
-      alt="typescript" 
-      width="60"
-      height='40'
-      src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=2e4de5">
-      <img 
-      alt="react" 
-      width="60"
-      height='40'
-      src="https://icongr.am/devicon/react-original.svg?size=128&color=2e4de5"> 
-      <img 
-      alt="vue" 
-      width="60"
-      height='40'
-      src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=2e4de5">  
-    <img 
-      alt="python" 
-      width="60"
-      height='40'
-      src="https://icongr.am/devicon/python-original.svg?size=128&color=2e4de5"> 
-    <!-- <i class="devicon-materialui-plain colored"></i>  -->
 </div>
