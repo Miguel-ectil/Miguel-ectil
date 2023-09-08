@@ -62,7 +62,7 @@
     width="60"
     height='50'
     fill: white
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
+    src="https://icons8.com/icon/yUdJlcKanVbh/next.js" 
   />
   <img 
     alt="vue" 
