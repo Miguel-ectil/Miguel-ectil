@@ -35,6 +35,6 @@
       alt="css" 
       width="40"
       height='30'
-      href="https://icongr.am/devicon/css3-plain-wordmark.svg?size=128&color=2e4de5"> 
+      src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=2e4de5"> 
     <!-- <i class="devicon-materialui-plain colored"></i>  -->
 </div>
