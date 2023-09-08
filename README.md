@@ -56,7 +56,13 @@
     alt="react" 
     width="60"
     height='50'
-    src="https://icongr.am/devicon/react-original.svg?size=128&color=2e4de5" /> 
+    src="https://icongr.am/devicon/react-original.svg?size=128&color=2e4de5" />
+  <img
+    alt="nextjs" 
+    width="60"
+    height='50'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
+  />
   <img 
     alt="vue" 
     width="60"
