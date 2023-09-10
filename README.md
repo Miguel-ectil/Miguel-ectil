@@ -78,7 +78,7 @@
     width="50"
     height='40'
     src="https://icongr.am/devicon/git-original.svg?size=126&color=e44d26" />
-  <img 
+  <!-- <img 
     alt="visualstudio" 
     width="50"
     height='40'
@@ -87,7 +87,7 @@
     alt="ubuntu" 
     width="50"
     height='40'
-    src="https://icongr.am/devicon/ubuntu-plain.svg?size=126&color=e44d26" />
+    src="https://icongr.am/devicon/ubuntu-plain.svg?size=126&color=e44d26" /> -->
 
   ###
   <a href="https://www.linkedin.com/in/miguel-ectil-a54063267/">
