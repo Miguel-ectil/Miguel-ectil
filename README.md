@@ -2,10 +2,9 @@
 
 ### Quem eu sou?
 
-<p>
-  Bom meu nome é Miguel Ectil e eu sou apenas mais uma das pessoas que apreciam essa área que a programação. <br />Sobre mim: bem eu sou alguém que gosta bastante de animes. Confesso que não tenho muito costume de ler, mas isso não significa que eu não leia, apenas não faço isso frequentemente 😅.
-  <br />Estou sempre pronto para novas experiências e sou bem comunicativo quando necessário. Acredito que a nossa humildade diz muito sobre nós, por isso, procuro sempre ser humilde e aprender com os meus erros, bom acredito que só isso seja suficiente para que tenham uma noção sobre a minha pessoa kkkk
-</p>
+<h6>
+  Well, My name is Miguel. I'm a Front-End developer and I have a great passion for programming. I'm currently focused on Next.js and React.js, which are my specialty. I have more than 2 years of experience in this area of ​​programming, having also worked with Vue.js and delved into back-end development, including the Python programming language. I am constantly learning new things and expanding my knowledge every day.
+</h6>
 
 
 <div style="display: inline_block" align="center">
