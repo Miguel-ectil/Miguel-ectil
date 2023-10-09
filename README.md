@@ -2,9 +2,10 @@
 
 ### Quem eu sou?
 
-<h6>
+
+<h5>
   Well, My name is Miguel. I'm a Front-End developer and I have a great passion for programming. I'm currently focused on Next.js and React.js, which are my specialty. I have more than 2 years of experience in this area of ​​programming, having also worked with Vue.js and delved into back-end development, including the Python programming language. I am constantly learning new things and expanding my knowledge every day.
-</h6>
+</h5>
 
 
 <div style="display: inline_block" align="center">
