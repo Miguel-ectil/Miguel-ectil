@@ -57,7 +57,7 @@
     height='40'
     src="https://icongr.am/devicon/react-original.svg?size=128&color=2e4de5" />
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="50" height="40"/>
+    <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="50" height="46"/>
   </a>
   <img 
     alt="vue" 
