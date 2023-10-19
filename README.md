@@ -4,9 +4,9 @@
 
 
 
-<h4>
+<p>
   Well, my name is Miguel. I'm a Front-End developer and I have a great passion for programming. I'm currently focused on Next.js and React.js, which are my specialty. I have more than 2 years of experience in this area of ​​programming, having also worked with Vue.js and delved into back-end development, including the Python programming language. I am constantly learning new things and expanding my knowledge every day.
-</h4>
+</p>
 
 <div style="display: inline_block" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel-ectil&show_icons=true&theme=tokyonight"/>
