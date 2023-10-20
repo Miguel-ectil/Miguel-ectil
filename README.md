@@ -38,7 +38,7 @@
     <img alt="materialui" width="50" height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   </a>
 
-  <a>
+  <a href="https://tailwindcss.com/">
     <img alt="tailwindcss" width="50" height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   </a>
 
@@ -46,10 +46,9 @@
     alt="javascript" 
     width="50" height="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=2e4de5" /> 
 
-  <img 
-    alt="typescript" 
-    width="50" height='40' src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=2e4de5" />
-
+  <a href="https://www.typescriptlang.org/">
+    <img alt="typescript" width="50" height='40' src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=2e4de5" />
+  </a>
   <img 
     alt="react" 
     width="50"
