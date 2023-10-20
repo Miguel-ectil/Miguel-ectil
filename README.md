@@ -61,22 +61,22 @@
     width="50"
     height='40'
     src="https://icongr.am/devicon/react-original.svg?size=128&color=2e4de5" />
+  
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="50" height="46"/>
   </a>
+  
   <a href="https://vuejs.org/">
     <img alt="vue" width="50" height='40' src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=2e4de5" />
   </a>
-  <img 
-    alt="python" 
-    width="50"
-    height='40'
-    src="https://icongr.am/devicon/python-original.svg?size=128&color=2e4de5" />
-  <img 
-    alt="python" 
-    width="50"
-    height='40'
-    src="https://icongr.am/devicon/git-original.svg?size=126&color=e44d26" />
+  
+  <a href="https://www.python.org/">
+    <img alt="python"  width="50" height='40' src="https://icongr.am/devicon/python-original.svg?size=128&color=2e4de5" />
+  </a>
+  
+  <a href="https://git-scm.com/">
+    <img alt="git" width="50" height='40' src="https://icongr.am/devicon/git-original.svg?size=126&color=e44d26" />
+  </a>
   <!-- <img 
     alt="visualstudio" 
     width="50"
