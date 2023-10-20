@@ -42,9 +42,9 @@
     <img alt="tailwindcss" width="50" height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   </a>
 
-  <img 
-    alt="javascript" 
-    width="50" height="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=2e4de5" /> 
+  <a>
+    <img alt="javascript" width="50" height="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=2e4de5" /> 
+  </a>
 
   <a href="https://www.typescriptlang.org/">
     <img alt="typescript" width="50" height='40' src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=2e4de5" />
