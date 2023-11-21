@@ -21,37 +21,37 @@
 <div align="center">
   <img 
     alt="html5" 
-    width="50"
+    width="40"
     height='40'
     src="https://icongr.am/devicon/html5-original.svg?size=128&color=2e4de5" />
   <img 
     alt="css3" 
-    width="50"
+    width="40"
     height='40'
     src="https://icongr.am/devicon/css3-original.svg?size=128&color=2e4de5" />
   
   <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"> 
-    <img alt="bootstrap" width="50" height='40' src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6938f0" />
+    <img alt="bootstrap" width="40" height='40' src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6938f0" />
   </a>
 
   <a href="https://mui.com/material-ui/">
-    <img alt="materialui" width="50" height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+    <img alt="materialui" width="40" height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   </a>
 
   <a href="https://tailwindcss.com/">
-    <img alt="tailwindcss" width="50" height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img alt="tailwindcss" width="40" height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   </a>
 
   <a>
-    <img alt="javascript" width="50" height="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=2e4de5" /> 
+    <img alt="javascript" width="40" height="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=2e4de5" /> 
   </a>
 
   <a href="https://www.typescriptlang.org/">
-    <img alt="typescript" width="50" height='40' src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=2e4de5" />
+    <img alt="typescript" width="40" height='40' src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=2e4de5" />
   </a>
 
   <a href="https://react.dev/">
-    <img alt="react" width="50" height='40'src="https://icongr.am/devicon/react-original.svg?size=128&color=2e4de5" />
+    <img alt="react" width="40" height='40'src="https://icongr.am/devicon/react-original.svg?size=128&color=2e4de5" />
   </a>
 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
@@ -59,11 +59,11 @@
   </a>
   
   <a href="https://vuejs.org/">
-    <img alt="vue" width="50" height='40' src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=2e4de5" />
+    <img alt="vue" width="40" height='40' src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=2e4de5" />
   </a>
   
   <a href="https://www.python.org/">
-    <img alt="python"  width="50" height='40' src="https://icongr.am/devicon/python-original.svg?size=128&color=2e4de5" />
+    <img alt="python"  width="40" height='40' src="https://icongr.am/devicon/python-original.svg?size=128&color=2e4de5" />
   </a>
   
   <a href="https://git-scm.com/">
