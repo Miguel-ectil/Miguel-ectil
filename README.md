@@ -11,8 +11,8 @@
 </p>
 
 <div style="display: inline_block" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel-ectil&show_icons=true&count_private=true&hide_border=true&title_color=f9fafb&icon_color=22d3ee&bg_color=0d1117"/>
-  <img left='2px' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-ectil&layout=compact&hide_border=true&title_color=f9fafb&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel-ectil&show_icons=true&theme=tokyonight"/>
+  <img left='2px' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-ectil&layout=compact&theme=tokyonight"/>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-ectil&theme=radical" alt="miguel" /></p>
 </div>
 
