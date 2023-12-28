@@ -80,8 +80,10 @@
     height='40'
     src="https://icongr.am/devicon/ubuntu-plain.svg?size=126&color=e44d26" /> -->
 
-  ###
+###
 <h3>Connect with me:</h3>
+
+&nbsp; &nbsp; &nbsp;
 <!--   <a href="https://www.linkedin.com/in/miguel-ectil-a54063267/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> -->
