@@ -19,7 +19,10 @@
 ##
 
 <div align="center">
-  <img 
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,materialui,tailwind,react,nextjs,python,docker,postman)](https://skillicons.dev)
+
+  <!-- <img 
     alt="html5" 
     width="40"
     height='40'
@@ -68,17 +71,8 @@
   
   <a href="https://git-scm.com/">
     <img alt="git" width="50" height='40' src="https://icongr.am/devicon/git-original.svg?size=126&color=e44d26" />
-  </a>
-  <!-- <img 
-    alt="visualstudio" 
-    width="50"
-    height='40'
-    src="https://icongr.am/devicon/visualstudio-plain.svg?size=126&color=00adef" />
-  <img 
-    alt="ubuntu" 
-    width="50"
-    height='40'
-    src="https://icongr.am/devicon/ubuntu-plain.svg?size=126&color=e44d26" /> -->
+  </a> -->
+
 
 ###
 <h3>🫱🏼‍🫲🏾 Connect with Me</h3>
