@@ -87,7 +87,7 @@
 <!--   <a href="https://www.linkedin.com/in/miguel-ectil-a54063267/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> -->
-  [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-ectil)
+  [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-ectil-a54063267)
 
   <a href="mailto:ectilmiguelmiguelectil@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
