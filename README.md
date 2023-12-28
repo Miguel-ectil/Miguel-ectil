@@ -81,7 +81,8 @@
     src="https://icongr.am/devicon/ubuntu-plain.svg?size=126&color=e44d26" /> -->
 
 ###
-<h3>Connect with me:</h3>
+<h3>🫱🏼‍🫲🏾 Connect with Me</h3>
+
 &nbsp; &nbsp; &nbsp;
   [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-ectil-a54063267)
   [![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/ectil_miguel)
