@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3a86ff&size=35&center=true&vCenter=true&width=1000&lines=What'sup,+your+Welcome+to+my+github+;Dev+Front-End)](https://git.io/typing-svg)
 
-### Quem eu sou 👦🏾?
+### Who I am 👦🏾?
 
 
 <p>
