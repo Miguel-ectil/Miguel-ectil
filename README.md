@@ -2,7 +2,6 @@
 
 ### Who I am 👦🏾?
 
-
 <p>
   <strong>
     Well, my name is Miguel. I'm a Front-End developer and I have a great passion for programming. I'm currently focused on Next.js and React.js, which are my specialty. I have more than 2 years of experience in this area of ​​programming, having also worked with Vue.js and delved into back-end development, working with the Python programming language. I am constantly learning new things and expanding my knowledge every day.
@@ -23,13 +22,12 @@
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,materialui,tailwind,react,nextjs,vue,python,docker,postman,figma)](https://skillicons.dev)
 
+  ###
+  <h3>🫱🏼‍🫲🏾 Connect with Me</h3>
 
-###
-<h3>🫱🏼‍🫲🏾 Connect with Me</h3>
-
-&nbsp; &nbsp; &nbsp;
-  [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-ectil-a54063267)
-  [![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/ectil_miguel)
-  [![GMAIL](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](mailto:ectilmiguelmiguelectil@gmail.com)
-  [![DISCORD](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)](https://discordapp.com/users/850006673815765083/850006673815765085)
+  &nbsp; &nbsp; &nbsp;
+    [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-ectil-a54063267)
+    [![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/ectil_miguel)
+    [![GMAIL](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](mailto:ectilmiguelmiguelectil@gmail.com)
+    [![DISCORD](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)](https://discordapp.com/users/850006673815765083/850006673815765085)
 </div>
