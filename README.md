@@ -31,13 +31,3 @@
     [![DISCORD](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)](https://discordapp.com/users/850006673815765083/850006673815765085)
 </div>
 
-<div name='Cobrinha'>
-  <table align='center'>
-    <tr>
-      <td>
-           <img src="https://github.com/Miguel-ectil/Miguel-ectil/blob/output/github-contribution-grid-snake-dark.svg" width="100%" >
-      </td>
-    </tr>
- </table>
-</div>
-
