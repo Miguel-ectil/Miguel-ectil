@@ -7,14 +7,12 @@
     Well, my name is Miguel. I'm a Front-End developer and I have a great passion for programming. I'm currently focused on Next.js and React.js, which are my specialty. I have more than 2 years of experience in this area of ​​programming, having also worked with Vue.js and delved into back-end development, working with the Python programming language. I am constantly learning new things and expanding my knowledge every day.
   </strong>
 </p>
-
-<div align="center ">
-  <img button='4px' align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-ectil&theme=radical" alt="miguel" />
-</div>
   
 <div style="display: inline_block tot: 2" align="center ">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Miguel-ectil&show_icons=true&theme=tokyonight"/>
   <img left='4px' height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-ectil&layout=compact&theme=tokyonight"/>
+  <img button='4px' align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-ectil&theme=radical" alt="miguel" />
+
 </div>
 
 ##
