@@ -9,12 +9,12 @@
 </p>
 
 <div align="center ">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-ectil&theme=radical" alt="miguel" />
+  <img button='4px' align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-ectil&theme=radical" alt="miguel" />
 </div>
   
 <div style="display: inline_block tot: 2" align="center ">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Miguel-ectil&show_icons=true&theme=tokyonight"/>
-  <img left='2px' height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-ectil&layout=compact&theme=tokyonight"/>
+  <img left='4px' height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-ectil&layout=compact&theme=tokyonight"/>
 </div>
 
 ##
