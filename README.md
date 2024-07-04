@@ -12,8 +12,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Miguel-ectil&show_icons=true&theme=tokyonight"/>
   <img left='4px' height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-ectil&layout=compact&theme=tokyonight"/>
   <img button='4px' align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-ectil&theme=radical" alt="miguel" />
-    <a href="https://app.rocketseat.com.br/me/miguel-ectil"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=miguel-ectil&type=card" width="280" alt="Miguel Ectil's Rocket ID"/></a>
-
+<!--   <a href="https://app.rocketseat.com.br/me/miguel-ectil"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=miguel-ectil&type=card" width="280" alt="Miguel Ectil's Rocket ID"/></a> -->
 </div>
 
 ##
