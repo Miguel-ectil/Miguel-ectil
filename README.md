@@ -30,5 +30,6 @@
     [![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/ectil_miguel)
     [![GMAIL](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](mailto:ectilmiguelmiguelectil@gmail.com)
     [![DISCORD](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)](https://discordapp.com/users/850006673815765083/850006673815765085)
+    <a href="https://app.rocketseat.com.br/me/miguel-ectil"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=miguel-ectil&type=card" width="280" alt="Miguel Ectil's Rocket ID"/></a>
 </div>
 
