@@ -28,7 +28,7 @@
   &nbsp; &nbsp; &nbsp;
     [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-ectil-a54063267)
     [![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/ectil_miguel)
-    [![GMAIL](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](mailto:ectilmiguelmiguelectil@gmail.com)
+    [![GMAIL](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](mailto:ectilmiguel@gmail.com)
     [![DISCORD](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)](https://discordapp.com/users/850006673815765083/850006673815765085)
 </div>
 
