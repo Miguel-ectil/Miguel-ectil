@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C4E80&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3a86ff&size=35&center=true&vCenter=true&width=1000&lines=What's+going+on,+Welcome+to+my+github+;Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3a86ff&size=35&center=true&vCenter=true&width=1000&lines=Hey!+Welcome+to+my+GitHub;I'm+a+passionate+Web+Developer)](https://git.io/typing-svg)
 
 ---
 
@@ -14,17 +14,19 @@
 ##
 
 <div align="center">
-  <h3>🛠 Skills Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="23"></h3>
+  
+ ### 🛠 Skills:
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,materialui,tailwind,react,nextjs,vue,python,mysql,docker,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,materialui,tailwind,react,nextjs,vue,python,mysql,docker,postman,figma)](https://skillicons.dev)
 
-  ###
-  <h3>🫱🏼‍🫲🏾 Connect with Me</h3>
+##
 
-  &nbsp; &nbsp; &nbsp;
-    [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-ectil-a54063267)
-    [![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/ectil_miguel)
-    [![GMAIL](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](mailto:ectilmiguel@gmail.com)
-    [![DISCORD](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)](https://discordapp.com/users/850006673815765083/850006673815765085)
+ ### 🌍 🫱🏼‍🫲🏾 Connect with Me:
+
+  [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-ectil-a54063267)
+  [![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/ectil_miguel)
+  [![GMAIL](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](mailto:ectilmiguel@gmail.com)
+  [![DISCORD](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)](https://discordapp.com/users/850006673815765083/850006673815765085)
+
 </div>
 
