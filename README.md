@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C4E80&height=110&section=header"/>
 
-## Olá, seja bem vindo ao meu perfil! Eu sou Miguel Ectil
+## Olá, seja bem vindo ao meu perfil! Me chame de Miguelito
 
 <div style="display: inline_block tot: 2" align="center ">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Miguel-ectil&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true"/>
