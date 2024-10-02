@@ -14,7 +14,7 @@
   
  ### 🛠 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,materialui,tailwind,react,nextjs,vue,python,mysql,docker,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vuejs,tailwind,materialui,bootstrap,python,mysql,docker,figma)](https://skillicons.dev)
 
 ---
 
