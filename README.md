@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C4E80&height=110&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C4E80&height=86&section=header"/>
 
 ## Olá, seja bem vindo ao meu perfil! Me chame de Miguelito
 
@@ -26,4 +26,4 @@
   [![DISCORD](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)](https://discordapp.com/users/850006673815765083/850006673815765085)
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C4E80&height=110&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C4E80&height=86&section=footer"/>
