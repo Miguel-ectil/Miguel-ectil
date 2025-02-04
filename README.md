@@ -3,7 +3,7 @@
 ## Olá, seja bem vindo ao meu perfil! Me chame de Miguelito
 
 <div style="display: inline_block tot: 2" align="center ">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Miguel-ectil&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Miguel-ectil&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&include_all_commits=true"/>
   <img left='4px' height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Miguel-ectil&include_all_commits=true&langs_count=6&layout=compact&theme=tokyonight&show_icons=true&border_radius=12&hide_border=true"/>
 <!--   <img button='4px' height="170em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-ectil&theme=radical" alt="miguel" /> -->
 <!--   <a href="https://app.rocketseat.com.br/me/miguel-ectil"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=miguel-ectil&type=card" width="280" alt="Miguel Ectil's Rocket ID"/></a> -->
