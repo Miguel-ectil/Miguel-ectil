@@ -16,7 +16,7 @@ const miguel = {
     "Tailwind", "SQL", "PostgreSQL", "MySQL", "CI/CD", "Docker"
   ],
   focoAtual: "Criação de aplicações web modernas, performáticas e escaláveis com foco na experiência do usuário",
-  localização: "Brasil 🇧🇷"
+  localização: "São Paulo(SP) - Brasil 🇧🇷"
 };
 ````
 <!-- antigo cards de processo -->
