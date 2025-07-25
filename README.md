@@ -34,8 +34,7 @@ const miguel = {
 </div>
 
 <div align="center">
-  <!--   <img button='4px' height="170em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-ectil&theme=radical" alt="miguel" /> -->
-
+  
  ### 🛠 Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vuejs,tailwind,materialui,bootstrap,python,postgresql,mysql,git,github,docker,figma)](https://skillicons.dev)
