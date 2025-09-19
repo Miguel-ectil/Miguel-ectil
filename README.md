@@ -12,8 +12,8 @@ const miguel = {
   função: "Desenvolvedor Fullstack com maior foco no Front-End",
   especialidade: ["Interfaces modernas e responsivas", "Performance", "Experiência do usuário"],
   tecnologias: [
-    "Next.js", "Vue.js", "React", "Node.js", "Python",
-    "Tailwind", "SQL", "PostgreSQL", "MySQL", "CI/CD", "Docker"
+    "React", "Next.js", "Vue.js", "Node.js", "Python",
+    "Tailwind", "SQL", "PostgreSQL", "MySQL", "Docker", "CI/CD"
   ],
   focoAtual: "Criação de aplicações web modernas, performáticas e escaláveis com foco na experiência do usuário",
   localização: "São Paulo (SP) - Brasil 🇧🇷"
