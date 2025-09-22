@@ -3,21 +3,27 @@
 <h1 align="center">👋🏾 Olá, seja bem-vindo ao meu perfil</h1>
 <!-- <h3 align="center">Me chame de Miguelito 😄</h3> -->
 
-### 👨🏾 Sobre mim:
+### 👨🏾‍💻 Sobre mim
 
 ```ts
 const miguel = {
-  nome: "Miguel Ectil, mas pode me chamar de Miguelito",
+  nome: "Miguel Ectil",
+  apelido: "Miguelito",
   idade: 20,
-  função: "Desenvolvedor Fullstack com maior foco no Front-End",
-  especialidade: ["Interfaces modernas e responsivas", "Performance", "Experiência do usuário"],
+  localização: "São Paulo (SP) - Brasil 🇧🇷",
+  função: "Desenvolvedor Fullstack (com foco em Front-End)",
+  especialidades: [
+    "Interfaces modernas e responsivas",
+    "Performance web",
+    "Experiência do usuário (UI and UX)"
+  ],
   tecnologias: [
     "React", "Next.js", "Vue.js", "Node.js", "Python",
-    "Tailwind", "SQL", "PostgreSQL", "MySQL", "Docker", "CI/CD"
+    "Tailwind", "SQL", "PostgreSQL", "MySQL",
+    "Docker", "CI/CD"
   ],
-  focoAtual: "Criação de aplicações web modernas, performáticas e escaláveis com foco na experiência do usuário",
-  localização: "São Paulo (SP) - Brasil 🇧🇷"
-};
+  focoAtual: "Criar aplicações web rápidas, escaláveis e intuitivas, sempre priorizando a melhor experiência para o usuário."
+}
 ````
 <!-- antigo cards de processo -->
 <!-- <div style="display: inline_block tot: 2" align="center "> -->
