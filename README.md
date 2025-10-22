@@ -18,11 +18,11 @@ const miguel = {
     "Performance web",
     "Experiência do usuário (UI/UX)"
   ],
-  tecnologias: [
-    "React", "Next.js", "Vue.js", "Node.js", "Python", "Kotlin,
-    "Tailwind", "SQL", "PostgreSQL", "MySQL",
-    "Docker", "CI/CD"
-  ],
+  tecnologias: {
+    frontEnd: ["React", "Next.js", "Vue.js", "Tailwind", "Material UI", "Bootstrap"],
+    backEnd: ["Node.js", "Python", "Kotlin", "SQL", "PostgreSQL", "MySQL"],
+    devOps_e_Outros: ["Docker", "CI/CD", "Git", "GitHub", "Figma"]
+  },
   focoAtual: "Projetar, desenvolver e manter aplicações web completas — do front-end ao back-end — com foco em performance, escalabilidade, boas práticas de código e uma experiência de usuário excepcional. Buscando sempre evoluir tecnicamente e entregar soluções eficientes para problemas reais."
 }
 
