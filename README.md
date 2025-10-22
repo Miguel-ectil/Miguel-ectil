@@ -1,7 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2C4E80&height=84&section=header"/>
 
-<h1 align="center">👋🏾 Olá, seja bem-vindo ao meu perfil</h1>
-<!-- <h3 align="center">Me chame de Miguelito 😄</h3> -->
+<h1 align="center">👋🏾 Olá, seja bem-vindo ao meu perfil!</h1>
+
+---
 
 ### 👨🏾‍💻 Sobre mim
 
@@ -10,20 +11,21 @@ const miguel = {
   nome: "Miguel Ectil",
   apelido: "Miguelito",
   idade: 20,
-  localização: "São Paulo (SP) - Brasil 🇧🇷",
+  localização: "São Paulo (SP) 🇧🇷",
   função: "Desenvolvedor Fullstack (com foco em Front-End)",
   especialidades: [
     "Interfaces modernas e responsivas",
     "Performance web",
-    "Experiência do usuário (UI and UX)"
+    "Experiência do usuário (UI/UX)"
   ],
   tecnologias: [
-    "React", "Next.js", "Vue.js", "Node.js", "Python",
+    "React", "Next.js", "Vue.js", "Node.js", "Python", "Kotlin,
     "Tailwind", "SQL", "PostgreSQL", "MySQL",
     "Docker", "CI/CD"
   ],
-  focoAtual: "Criar aplicações web rápidas, escaláveis e intuitivas, sempre priorizando a melhor experiência para o usuário."
+  focoAtual: "Projetar, desenvolver e manter aplicações web completas — do front-end ao back-end — com foco em performance, escalabilidade, boas práticas de código e uma experiência de usuário excepcional. Buscando sempre evoluir tecnicamente e entregar soluções eficientes para problemas reais."
 }
+
 ````
 <!-- antigo cards de processo -->
 <!-- <div style="display: inline_block tot: 2" align="center "> -->
