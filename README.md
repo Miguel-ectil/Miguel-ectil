@@ -12,18 +12,18 @@ const miguel = {
   apelido: "Miguelito",
   idade: 20,
   localização: "São Paulo (SP) 🇧🇷",
-  função: "Desenvolvedor Fullstack (com foco em Front-End)",
+  função: "Desenvolvedor Fullstack (foco em Front-End)",
   especialidades: [
     "Interfaces modernas e responsivas",
-    "Performance web",
-    "Experiência do usuário (UI/UX)"
+    "Performance web e otimização de UX/UI",
+    "Boas práticas de arquitetura e versionamento"
   ],
   tecnologias: {
-    frontEnd: ["React", "Next.js", "Vue.js", "Tailwind", "Material UI", "Bootstrap"],
-    backEnd: ["Node.js", "Python", "Kotlin", "SQL", "PostgreSQL", "MySQL"],
-    devOps_e_Outros: ["Docker", "CI/CD", "Git", "GitHub", "Figma"]
+    frontEnd: ["React", "Next.js", "Vue.js", "TypeScript", "Tailwind", "Material UI", Bootstrap],
+    backEnd: ["Node.js", "Express", "TypeScript", "Python", "PostgreSQL", "MySQL"],
+    devOps_e_Outros: ["Docker", "CI/CD", "Git", "GitHub Actions", "Vercel", "AWS", "Figma", Render, Netlify]
   },
-  focoAtual: "Projetar, desenvolver e manter aplicações web completas — do front-end ao back-end — com foco em performance, escalabilidade, boas práticas de código e uma experiência de usuário excepcional. Buscando sempre evoluir tecnicamente e entregar soluções eficientes para problemas reais."
+  focoAtual: "Desenvolver aplicações completas e escaláveis, com foco em performance, UX e qualidade de código. Atualmente explorando integrações avançadas com APIs e estudando IA generativa aplicada ao desenvolvimento web."
 }
 
 ````
