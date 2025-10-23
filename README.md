@@ -19,9 +19,9 @@ const miguel = {
     "Boas práticas de arquitetura e versionamento"
   ],
   tecnologias: {
-    frontEnd: ["React", "Next.js", "Vue.js", "TypeScript", "Tailwind", "Material UI", Bootstrap],
+    frontEnd: ["React", "Next.js", "Vue.js", "TypeScript", "Tailwind", "Material UI", "Bootstrap"],
     backEnd: ["Node.js", "Express", "TypeScript", "Python", "PostgreSQL", "MySQL"],
-    devOps_e_Outros: ["Docker", "CI/CD", "Git", "GitHub Actions", "Vercel", "AWS", "Figma", Render, Netlify]
+    devOps_e_Outros: ["Docker", "CI/CD", "Git", "GitHub Actions", "Vercel", "AWS", "Figma", "Render", "Netlify"]
   },
   focoAtual: "Desenvolver aplicações completas e escaláveis, com foco em performance, UX e qualidade de código. Atualmente explorando integrações avançadas com APIs e estudando IA generativa aplicada ao desenvolvimento web."
 }
