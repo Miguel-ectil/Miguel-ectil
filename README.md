@@ -9,21 +9,24 @@
 ```ts
 const miguel = {
   nome: "Miguel Ectil",
-  apelido: "Miguelito",
-  idade: 20,
+  senioridade: "Desenvolvedor Full Stack Pleno", 
+  especializacao: "React & Next.js Specialist",
   localização: "São Paulo (SP) 🇧🇷",
-  função: "Desenvolvedor Fullstack (foco em Front-End)",
-  especialidades: [
-    "Interfaces modernas e responsivas",
-    "Performance web e otimização de UX/UI",
-    "Boas práticas de arquitetura e versionamento"
-  ],
-  tecnologias: {
-    frontEnd: ["React", "Next.js", "Vue.js", "TypeScript", "Tailwind", "Material UI", "Bootstrap"],
-    backEnd: ["Node.js", "Express", "TypeScript", "Python", "PostgreSQL", "MySQL"],
-    devOps_e_Outros: ["Docker", "CI/CD", "Git", "GitHub Actions", "Vercel", "AWS", "Figma", "Render", "Netlify"]
+  
+  stackPrincipal: {
+    frontEnd: ["React", "Next.js", "TypeScript", "Vue.js", "Tailwind", "Mui", "Bootstrap"],
+    backEnd: ["Node.js", "Python", "APIs REST", "SQL", "PostgreSQL", "MySQL"],
+    devOps: ["CI/CD", "Docker", "Git/GitHub"]
   },
-  focoAtual: "Desenvolver aplicações completas e escaláveis, com foco em performance, UX e qualidade de código. Atualmente explorando integrações avançadas com APIs e estudando IA generativa aplicada ao desenvolvimento web."
+  
+  valorEntrego: [
+    "Desenvolvimento de Sistemas Web completos e escaláveis",
+    "Arquitetura de Interfaces Modernas com foco em Performance", 
+    "Integração Front-end e Back-end com APIs robustas",
+    "Soluções Técnicas que unem usabilidade e código sustentável"
+  ],
+  
+   diferencial: "Pensamento analítico + Vontade de aprender + Colaboração em equipe"
 }
 
 ````
