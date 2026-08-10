@@ -15,7 +15,8 @@ const miguel = {
   
   stackPrincipal: {
     frontEnd: ["React", "Next.js", "TypeScript", "Vue.js", "Tailwind", "Mui", "Bootstrap"],
-    backEnd: ["Node.js", "Python", "APIs REST", "SQL", "PostgreSQL", "MySQL"],
+    backEnd: ["Node.js", "Python", "Django", "FastApi", "Flask", "SQL"],
+    banco: ["PostgreSQL", "MySQL", "SQLite"],
     devOps: ["CI/CD", "Docker", "Git/GitHub"]
   },
   
