@@ -9,26 +9,33 @@
 ```ts
 const miguel = {
   nome: "Miguel Ectil",
-  senioridade: "Desenvolvedor Full Stack Pleno", 
-  especializacao: "React & Next.js Specialist",
+  senioridade: "Desenvolvedor Full Stack Pleno",
+  foco: "Back-end, APIs, Integrações & Sistemas Web",
   localização: "São Paulo (SP) 🇧🇷",
-  
+
   stackPrincipal: {
-    frontEnd: ["React", "Next.js", "TypeScript", "Vue.js", "Tailwind", "Mui", "Bootstrap"],
-    backEnd: ["Node.js", "Python", "Django", "FastApi", "Flask", "SQL"],
-    banco: ["PostgreSQL", "MySQL", "SQLite"],
-    devOps: ["CI/CD", "Docker", "Git/GitHub"]
+    frontEnd: ["React", "Next.js", "TypeScript", "Vue.js", "Tailwind CSS", "Material UI"],
+    backEnd: ["Python", "FastAPI", "Django", "Flask", "Node.js", "REST APIs"],
+    bancoDeDados: ["PostgreSQL", "MySQL", "SQL"],
+    infraestrutura: ["Linux", "Docker", "Nginx", "CI/CD", "Vercel"],
+    integrações: ["Microsoft Graph API", "Microsoft 365", "Azure AD", "APIs externas"]
   },
-  
-  valorEntrego: [
-    "Desenvolvimento de Sistemas Web completos e escaláveis",
-    "Arquitetura de Interfaces Modernas com foco em Performance", 
-    "Integração Front-end e Back-end com APIs robustas",
-    "Soluções Técnicas que unem usabilidade e código sustentável"
+
+  experiência: [
+    "Desenvolvimento e arquitetura de aplicações web e sistemas corporativos",
+    "Construção de APIs, integrações e regras de negócio",
+    "Desenvolvimento de dashboards e sistemas internos de gestão",
+    "Automação de processos e tratamento de dados com Python",
+    "Deploy, infraestrutura e manutenção de aplicações em produção"
   ],
-  
-   diferencial: "Pensamento analítico + Vontade de aprender + Colaboração em equipe"
-}
+
+  comoTrabalho: [
+    "Entendimento do problema antes da escolha da solução",
+    "Código organizado, sustentável e fácil de manter",
+    "Foco em integração entre sistemas e automação de processos",
+    "Colaboração com equipes e áreas de negócio"
+  ]
+};
 
 ````
 <!-- antigo cards de processo -->
