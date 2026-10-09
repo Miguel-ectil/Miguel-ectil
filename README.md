@@ -21,19 +21,10 @@ const miguel = {
     integrações: ["Microsoft Graph API", "Microsoft 365", "Azure AD", "APIs externas"]
   },
 
-  experiência: [
-    "Desenvolvimento e arquitetura de aplicações web e sistemas corporativos",
-    "Construção de APIs, integrações e regras de negócio",
-    "Desenvolvimento de dashboards e sistemas internos de gestão",
-    "Automação de processos e tratamento de dados com Python",
-    "Deploy, infraestrutura e manutenção de aplicações em produção"
-  ],
-
-  comoTrabalho: [
-    "Entendimento do problema antes da escolha da solução",
-    "Código organizado, sustentável e fácil de manter",
-    "Foco em integração entre sistemas e automação de processos",
-    "Colaboração com equipes e áreas de negócio"
+  interesses: [
+    "Arquitetura de software",
+    "Automação de processos",
+    "Integração entre sistemas"
   ]
 };
 
